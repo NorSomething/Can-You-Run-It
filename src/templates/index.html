@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block title %}GSC{% endblock %}
+
+{% block content %}
+
+    <form method="POST" action="{{ url_for('index')}}">
+        <input type="text" name="game_name" placeholder="Game Name"><br>
+        <input type="text" name="cpu" placeholder="CPU"><br>
+        <input type="number" name="ram" placeholder="Ram"><br>
+        <input type="text" name="GPU" placeholder="GPU"><br>
+        <input type="submit" value="Check">
+    </form>
+
+{% endblock %}
