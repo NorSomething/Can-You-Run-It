@@ -9,6 +9,11 @@ def get_html_file(data):
     with open("reqs.html", 'w') as f:
         print(data, file=f)
 
+def get_test_json(data):
+
+    with open("testdata.json", "w") as f:
+        json.dump(data, f, indent=4)
+
 
 def get_game_data(appid):
     url = f"https://store.steampowered.com/api/appdetails/?appids={appid}&l=english"
@@ -19,9 +24,11 @@ def get_game_data(appid):
 
 def parser(data):
 
+    get_test_json(data) #for user reference
+
     linux_reqs = data['linux_requirements']['minimum']
     get_html_file(linux_reqs)
-
+    
     HTMLFILE = open('reqs.html', 'r')
     reqs = HTMLFILE.read()
     S = BeautifulSoup(reqs, 'html.parser')
@@ -55,12 +62,8 @@ def parser(data):
     for x,y in user_system_spec_dict.items():
         print(f"{x}\t{y}")
 
-
- 
-
-
-data = get_game_data(730)
-parser(data)
+stuff = get_game_data(578080)
+parser(stuff)
 
 def spec_getter():
 
