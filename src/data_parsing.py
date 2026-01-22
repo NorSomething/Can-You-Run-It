@@ -4,15 +4,30 @@ import re
 import os
 from bs4 import BeautifulSoup
 
-def get_html_file(data):
+'''
+    ToDo : Handle no requirements data in steam page of some games
+'''
 
-    with open("reqs.html", 'w') as f:
+def get_html_file(data, name):
+
+    with open(f"{name}_reqs.html", 'w') as f:
         print(data, file=f)
 
 def get_test_json(data):
 
     with open("testdata.json", "w") as f:
         json.dump(data, f, indent=4)
+
+def get_parsed_data(name):
+    
+    HTMLFILE = open(f'{name}_reqs.html', 'r')
+    reqs = HTMLFILE.read()
+    S = BeautifulSoup(reqs, 'html.parser')
+    linux_parsed_data = (S.ul.text)
+
+    split_data = linux_parsed_data.split(':')   
+
+    return split_data 
 
 
 def get_game_data(appid):
@@ -27,15 +42,26 @@ def parser(data):
     get_test_json(data) #for user reference
 
     linux_reqs = data['linux_requirements']['minimum']
-    get_html_file(linux_reqs)
-    
-    HTMLFILE = open('reqs.html', 'r')
-    reqs = HTMLFILE.read()
-    S = BeautifulSoup(reqs, 'html.parser')
-    parsed_data = (S.ul.text)
+    pc_reqs = data['pc_requirements']['minimum']
 
-    split_data = parsed_data.split(':')
+    get_html_file(linux_reqs, 'linux')
+    get_html_file(pc_reqs, 'pc')
+    
+    print("Using linux requirements data.")
+
+    split_data = get_parsed_data('linux')
+
     data_list = []
+
+    if len(split_data) < 3: #no linux reqs there
+        
+        print("Using pc requirements data.")
+        split_data = get_parsed_data('pc')
+
+    if len(split_data) < 3: #no reqs present at all
+
+        print("No requirements data available.")
+        return
 
     for i in range(len(split_data)):
         if 'Processor' in split_data[i]:
@@ -46,8 +72,6 @@ def parser(data):
             data_list.append(split_data[i+1])
         if 'Storage' in split_data[i]:
             data_list.append(split_data[i+1])
-
-    #print(data_list)
 
     user_memory = re.search(r"\d+", data_list[1]).group()
     user_storage = re.search(r"\d+", data_list[3]).group()
