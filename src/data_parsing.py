@@ -25,18 +25,38 @@ def parser(data):
     HTMLFILE = open('reqs.html', 'r')
     reqs = HTMLFILE.read()
     S = BeautifulSoup(reqs, 'html.parser')
-    parsed_data = (S.ul.text).split()
+    parsed_data = (S.ul.text)
 
-    cpu_specs_needed = ""
+    split_data = parsed_data.split(':')
+    data_list = []
 
-    print(parsed_data)
+    for i in range(len(split_data)):
+        if 'Processor' in split_data[i]:
+            data_list.append(split_data[i+1])
+        if 'Memory' in split_data[i]:
+            data_list.append(split_data[i+1])
+        if 'Graphics' in split_data[i]:
+            data_list.append(split_data[i+1])
+        if 'Storage' in split_data[i]:
+            data_list.append(split_data[i+1])
+
+    #print(data_list)
+
+    user_memory = re.search(r"\d+", data_list[1]).group()
+    user_storage = re.search(r"\d+", data_list[3]).group()
+
+    user_system_spec_dict = {
+        'Processor' : data_list[0],
+        'Memory' : user_memory,
+        'Graphics' : data_list[2],
+        'Storage' : user_storage
+    }
+
+    for x,y in user_system_spec_dict.items():
+        print(f"{x}\t{y}")
 
 
-    print(cpu_specs_needed)
-
-
-
-
+ 
 
 
 data = get_game_data(730)
