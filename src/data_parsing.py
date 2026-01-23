@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 
 '''
     ToDo : Handle no requirements data in steam page of some games
+           CPU comparison fix
 '''
 
 def get_html_file(data, name):
@@ -55,7 +56,7 @@ def parser(data):
 
     if len(split_data) < 3: #no linux reqs there
         
-        print("Using pc requirements data.")
+        print("Linux reqs not found, Using pc requirements data.")
         split_data = get_parsed_data('pc')
 
     if len(split_data) < 3: #no reqs present at all
@@ -73,28 +74,41 @@ def parser(data):
         if 'Storage' in split_data[i]:
             data_list.append(split_data[i+1])
 
-    user_memory = re.search(r"\d+", data_list[1]).group()
-    user_storage = re.search(r"\d+", data_list[3]).group()
+    game_memory = re.search(r"\d+", data_list[1]).group()
+    game_storage = re.search(r"\d+", data_list[3]).group()
+    game_intel_processor = re.search(r"i\d+", data_list[0]).group()
 
-    user_system_spec_dict = {
-        'Processor' : data_list[0],
-        'Memory' : user_memory,
+    # game_system_req_dict = {
+    #     'Processor' : game_thread_count,
+    #     'Memory' : game_memory,
+    #     'Graphics' : data_list[2],
+    #     'Storage' : game_storage
+    # }
+
+    if 'i3' in game_intel_processor:
+        game_thread_count = 4
+    if 'i5' in game_intel_processor:
+       game_thread_count = 8
+    if 'i7' in game_intel_processor:
+        game_thread_count = 16
+
+
+    game_system_req_dict = {
+        'Processor' : game_thread_count,
+        'Memory' : game_memory,
         'Graphics' : data_list[2],
-        'Storage' : user_storage
+        'Storage' : game_storage
     }
 
-    for x,y in user_system_spec_dict.items():
-        print(f"{x}\t{y}")
+    return game_system_req_dict
 
-stuff = get_game_data(578080)
-parser(stuff)
 
 def spec_getter():
 
     mem_address = "/proc/meminfo"
     cpu_address = "/proc/cpuinfo"
 
-    core_count = 0
+    thread_count = 0
 
     with open(mem_address, 'r') as f:
         ram_total = f.readline().split()[1]
@@ -105,11 +119,10 @@ def spec_getter():
 
         for i in data:
             if 'processor' in i:
-                core_count += 1
+                thread_count += 1
 
         cpu_model = data[4]
 
-        print(core_count)
         cpu_model_list = (cpu_model.split()[3::])
 
         model = ""
@@ -119,12 +132,63 @@ def spec_getter():
 
         cpu_model = model
 
-        print(cpu_model)
-
     #capturing result
     storage_data = os.popen('df').read()
     storage_remainging = (int(storage_data.split()[10])/(1024))/(1024)
-    print(storage_remainging)
+    ram_total = (int(ram_total)/1024)/1024
 
+    user_system_spec_dict = {
+        'Processor thread count' : thread_count,
+        'Memory' :  ram_total,
+        'Graphics' : 'wip',
+        'Storage' : storage_remainging
+    }
+
+    return user_system_spec_dict
+    
+
+def comparator():
+
+    steam_game_id = int(input("Enter steam game app id : "))
+
+    stuff = get_game_data(steam_game_id)
+
+    user_system_spec_dict = spec_getter()
+    game_system_req_dict = parser(stuff)
+
+    print("Your specs : ")
+
+    for x,y in user_system_spec_dict.items():
+        print(f"{x} : {y}")
+
+    print("Game's Specs : ")
+
+    for x,y in game_system_req_dict.items():
+        print(f"{x} : {y}")
+
+    processor_flag = False
+    ram_flag = False
+    storage_flag = False 
+
+    if int(user_system_spec_dict['Processor thread count']) >= int(game_system_req_dict['Processor']):
+        processor_flag = True 
+    if int(user_system_spec_dict['Memory']) >= int(game_system_req_dict['Memory']):
+        ram_flag = True 
+    if int(user_system_spec_dict['Storage']) >= int(game_system_req_dict['Storage']):
+        storage_flag = True
+
+    if processor_flag and ram_flag and storage_flag:
+        print("You can run this game!")
+    
+    if not processor_flag:
+        print("You have a processor bottleneck.")
+    if not ram_flag:
+        print("You do not have enough ram.")
+    if not storage_flag:
+        print("You do not have enough storage left for this game.")
+
+    
+
+comparator()
     
 
