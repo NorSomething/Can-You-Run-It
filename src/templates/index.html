@@ -2,13 +2,42 @@
 {% block title %}GSC{% endblock %}
 
 {% block content %}
-
     <form method="POST" action="{{ url_for('index')}}">
-        <input type="text" name="game_name" placeholder="Game Name"><br>
-        <input type="text" name="cpu" placeholder="CPU"><br>
-        <input type="number" name="ram" placeholder="Ram"><br>
-        <input type="text" name="GPU" placeholder="GPU"><br>
+        <input type="text" name="steam_id" placeholder="Steam APP ID"><br>
         <input type="submit" value="Check">
+        <div class="result {{ result_class }}">
+          {{ result_text }}
+        </div>
+
+        {% if user_specs %}
+            <div class="panels">
+                <div class="panel">
+                    <h3>Your Specs</h3>
+                    {% for x,y in user_specs.items() %}
+                        <p>{{x}} : {{y}}</p>
+                    {% endfor %}
+                </div>
+
+                <div class="panel">
+                    <h3>Game Requirements</h3>
+                    {% for x,y in game_specs.items() %}
+                        <p>{{x}} : {{y}}</p>
+                    {% endfor %}
+                </div>
+                
+            </div>
+
+
+            {% if bottlenecks %}
+                <h3>Bottlenecks : </h3>
+                <ul>
+                    {% for i in bottlenecks %}
+                        <li>{{ b }}</li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+            {% endif %}
+
     </form>
 
 {% endblock %}

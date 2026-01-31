@@ -147,9 +147,10 @@ def spec_getter():
     return user_system_spec_dict
     
 
-def comparator():
+def comparator(appid):
 
-    steam_game_id = int(input("Enter steam game app id : "))
+    #steam_game_id = int(input("Enter steam game app id : "))
+    steam_game_id = int(appid) #for testing
 
     stuff = get_game_data(steam_game_id)
 
@@ -170,6 +171,9 @@ def comparator():
     ram_flag = False
     storage_flag = False 
 
+    can_run_flag = False
+    bottleneck_list = []
+
     if int(user_system_spec_dict['Processor thread count']) >= int(game_system_req_dict['Processor']):
         processor_flag = True 
     if int(user_system_spec_dict['Memory']) >= int(game_system_req_dict['Memory']):
@@ -178,17 +182,36 @@ def comparator():
         storage_flag = True
 
     if processor_flag and ram_flag and storage_flag:
-        print("You can run this game!")
+        #print("You can run this game!")
+        can_run_flag = True
     
     if not processor_flag:
-        print("You have a processor bottleneck.")
+        # print("You have a processor bottleneck.")
+        bottleneck_list.append('Processor Bottleneck.')
+
     if not ram_flag:
-        print("You do not have enough ram.")
+        #print("You do not have enough ram.")
+        bottleneck_list.append("Ram Bottleneck.")
     if not storage_flag:
-        print("You do not have enough storage left for this game.")
+        #print("You do not have enough storage left for this game.")
+        bottleneck_list.append("Storage Bottleneck")
 
+    return user_system_spec_dict, game_system_req_dict, can_run_flag, bottleneck_list
+
+def final_checker(appid):
+    
+    stuff = comparator(appid)
     
 
-comparator()
-    
+    final_dict = {
+        'user_specs' : stuff[0],
+        'game_specs' : stuff[1],
+        'can run' : stuff[2],
+        'bottlenecks' : stuff[3]
+    }
+
+    return final_dict
+
+
+
 

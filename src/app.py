@@ -2,7 +2,7 @@ from flask import Flask, render_template, request
 import requests
 import json 
 
-import data_parsing
+from data_parsing import final_checker
 
 app = Flask(__name__)
 
@@ -14,21 +14,30 @@ def index():
 
     elif request.method == 'POST':
 
-        game = request.form["game_name"]
-        cpu = request.form["cpu"]
-        ram = int(request.form["ram"])
-        gpu = request.form["gpu"]
+        steam_appid = request.form['steam_id']
+        result = final_checker(steam_appid)
 
-        if ram > 20:
-            return "nirmal kumar"
+        can_run = result["can run"]
+
+        if can_run:
+            result_text = "You can run this game!"
+            result_class = "success"
         else:
-            return ""
+            result_text = "You cannot run this game."
+            result_class = "fail"
+
+        return render_template(
+            "index.html",
+            user_specs=result["user_specs"],
+            game_specs=result["game_specs"],
+            can_run=can_run,
+            bottlenecks=result["bottlenecks"],
+            result_text=result_text,
+            result_class=result_class
+        )
+
     return None
 
-@app.route('/check', methods = ['POST'])
-def check():
-
-    game = request.form["game_name"]
 
 
 
