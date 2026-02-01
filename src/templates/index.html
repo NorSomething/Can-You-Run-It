@@ -4,6 +4,7 @@
 {% block content %}
     <form method="POST" action="{{ url_for('index')}}">
         <input type="text" name="steam_id" placeholder="Steam APP ID"><br>
+        <input type="text" name="game_name" placeholder="Enter Game Name"><br>
         <input type="submit" value="Check">
         <div class="result {{ result_class }}">
           {{ result_text }}

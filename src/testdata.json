@@ -1,35 +1,31 @@
 {
     "type": "game",
-    "name": "PUBG: BATTLEGROUNDS",
-    "steam_appid": 578080,
-    "required_age": "16",
+    "name": "Marvel Rivals",
+    "steam_appid": 2767030,
+    "required_age": 0,
     "is_free": true,
-    "detailed_description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/a540542c9e4e836390bfb24a25c205bf.poster.avif?t=1764817633\" width=700 height=146 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/a540542c9e4e836390bfb24a25c205bf.webm?t=1764817633\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/a540542c9e4e836390bfb24a25c205bf.mp4?t=1764817633\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/94748cbaeec0ad3090ce509567b709e9.poster.avif?t=1764817633\" width=700 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/94748cbaeec0ad3090ce509567b709e9.webm?t=1764817633\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/94748cbaeec0ad3090ce509567b709e9.mp4?t=1764817633\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>LAND</strong>\u00a0</p><p class=\"bb_paragraph\" >\u00a0</p><p class=\"bb_paragraph\" >Drop into an ever-growing and changing selection of maps to keep you challenged. Will you choose the safer outskirts and risk not getting enough loot or hot drop into the dense cities and fight from the moment you hit the ground? Every drop is different, it's up to you to make the best with what you find.\u00a0</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/4bb643362d2925a1950009742966fba0.poster.avif?t=1764817633\" width=700 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/4bb643362d2925a1950009742966fba0.webm?t=1764817633\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/4bb643362d2925a1950009742966fba0.mp4?t=1764817633\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>LOOT</strong>\u00a0</p><p class=\"bb_paragraph\" >\u00a0</p><p class=\"bb_paragraph\" >With unique weapons, a variety of supplies, and special tools to outwit your opponents, how you outfit yourself is up to you! Kit out your favorite weapons with powerful attachments or risk going after the hotly contested Care Packages for unique loot to give you the edge you need to win.\u00a0</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/960d991a398e5ab7472f6e7677693968.poster.avif?t=1764817633\" width=700 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/960d991a398e5ab7472f6e7677693968.webm?t=1764817633\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/960d991a398e5ab7472f6e7677693968.mp4?t=1764817633\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>SURVIVE</strong>\u00a0</p><p class=\"bb_paragraph\" >\u00a0</p><p class=\"bb_paragraph\" >Stocking up is only the beginning. With the Safe Zone growing ever smaller as time goes on, your risk of running into other survivors dramatically increases. Die and you're out. You'll need to outthink, outrun, or outshoot your opponents if you're to be the last one standing and claim ultimate victory.\u00a0\u00a0</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/fa735ab8c6a53aad70db16bca96549d9.poster.avif?t=1764817633\" width=700 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/fa735ab8c6a53aad70db16bca96549d9.webm?t=1764817633\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/fa735ab8c6a53aad70db16bca96549d9.mp4?t=1764817633\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>MANY WAYS TO PLAY,</strong>\u00a0</p><p class=\"bb_paragraph\" >\u00a0</p><p class=\"bb_paragraph\" >Warm up in Team Deathmatch, try out constantly changing modes in the Arcade, drop into the latest seasonal event, or build your own custom lobby and challenge your friends to something unique.\u00a0</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/83ece2f7635b618bee2c6dd899a13503.poster.avif?t=1764817633\" width=700 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/83ece2f7635b618bee2c6dd899a13503.webm?t=1764817633\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/83ece2f7635b618bee2c6dd899a13503.mp4?t=1764817633\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>EVERY MATCH IS UNIQUE</strong>\u00a0</p><p class=\"bb_paragraph\" >\u00a0</p><p class=\"bb_paragraph\" >No two battles are the same, and everything hinges on the choices you make to land, loot and survive. Drop into the Battlegrounds where victory hinges on every move and every choice, and fight to be the last one standing.\u00a0</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Optional in-game purchases available.\u00a0</p>",
-    "about_the_game": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/a540542c9e4e836390bfb24a25c205bf.poster.avif?t=1764817633\" width=700 height=146 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/a540542c9e4e836390bfb24a25c205bf.webm?t=1764817633\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/a540542c9e4e836390bfb24a25c205bf.mp4?t=1764817633\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/94748cbaeec0ad3090ce509567b709e9.poster.avif?t=1764817633\" width=700 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/94748cbaeec0ad3090ce509567b709e9.webm?t=1764817633\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/94748cbaeec0ad3090ce509567b709e9.mp4?t=1764817633\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>LAND</strong>\u00a0</p><p class=\"bb_paragraph\" >\u00a0</p><p class=\"bb_paragraph\" >Drop into an ever-growing and changing selection of maps to keep you challenged. Will you choose the safer outskirts and risk not getting enough loot or hot drop into the dense cities and fight from the moment you hit the ground? Every drop is different, it's up to you to make the best with what you find.\u00a0</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/4bb643362d2925a1950009742966fba0.poster.avif?t=1764817633\" width=700 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/4bb643362d2925a1950009742966fba0.webm?t=1764817633\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/4bb643362d2925a1950009742966fba0.mp4?t=1764817633\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>LOOT</strong>\u00a0</p><p class=\"bb_paragraph\" >\u00a0</p><p class=\"bb_paragraph\" >With unique weapons, a variety of supplies, and special tools to outwit your opponents, how you outfit yourself is up to you! Kit out your favorite weapons with powerful attachments or risk going after the hotly contested Care Packages for unique loot to give you the edge you need to win.\u00a0</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/960d991a398e5ab7472f6e7677693968.poster.avif?t=1764817633\" width=700 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/960d991a398e5ab7472f6e7677693968.webm?t=1764817633\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/960d991a398e5ab7472f6e7677693968.mp4?t=1764817633\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>SURVIVE</strong>\u00a0</p><p class=\"bb_paragraph\" >\u00a0</p><p class=\"bb_paragraph\" >Stocking up is only the beginning. With the Safe Zone growing ever smaller as time goes on, your risk of running into other survivors dramatically increases. Die and you're out. You'll need to outthink, outrun, or outshoot your opponents if you're to be the last one standing and claim ultimate victory.\u00a0\u00a0</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/fa735ab8c6a53aad70db16bca96549d9.poster.avif?t=1764817633\" width=700 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/fa735ab8c6a53aad70db16bca96549d9.webm?t=1764817633\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/fa735ab8c6a53aad70db16bca96549d9.mp4?t=1764817633\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>MANY WAYS TO PLAY,</strong>\u00a0</p><p class=\"bb_paragraph\" >\u00a0</p><p class=\"bb_paragraph\" >Warm up in Team Deathmatch, try out constantly changing modes in the Arcade, drop into the latest seasonal event, or build your own custom lobby and challenge your friends to something unique.\u00a0</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/83ece2f7635b618bee2c6dd899a13503.poster.avif?t=1764817633\" width=700 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/83ece2f7635b618bee2c6dd899a13503.webm?t=1764817633\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/83ece2f7635b618bee2c6dd899a13503.mp4?t=1764817633\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>EVERY MATCH IS UNIQUE</strong>\u00a0</p><p class=\"bb_paragraph\" >\u00a0</p><p class=\"bb_paragraph\" >No two battles are the same, and everything hinges on the choices you make to land, loot and survive. Drop into the Battlegrounds where victory hinges on every move and every choice, and fight to be the last one standing.\u00a0</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Optional in-game purchases available.\u00a0</p>",
-    "short_description": "PUBG: BATTLEGROUNDS, the high-stakes winner-take-all shooter that started the Battle Royale craze, is free-to-play! Drop into diverse maps, loot unique weapons and supplies, and survive in an ever-shrinking zone where every turn could be your last.",
-    "supported_languages": "English, Korean, Simplified Chinese, French, German, Spanish - Spain, Arabic, Japanese, Polish, Portuguese - Portugal, Russian, Turkish, Thai, Italian, Portuguese - Brazil, Traditional Chinese, Ukrainian",
-    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/841ea38bc58cabb70aef65365cf50bc2d79329d9/header.jpg?t=1764817633",
-    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/14f42ab797699a9c9f137fda66582d8776da4330/capsule_231x87.jpg?t=1764817633",
-    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/14f42ab797699a9c9f137fda66582d8776da4330/capsule_184x69.jpg?t=1764817633",
-    "website": "https://www.pubg.com",
+    "controller_support": "full",
+    "detailed_description": "<h1>Marvel Rivals Season 6: Update Overview</h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/a413477de11dc40ea4be10dc0b14178c.avif?t=1768793897\" width=1560 height=1062 /></span></p></p><br><h1>About the Game</h1><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/7b14c698e3cae345068fc2496c6ea627.poster.avif?t=1768793897\" width=610 height=160 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/7b14c698e3cae345068fc2496c6ea627.webm?t=1768793897\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/7b14c698e3cae345068fc2496c6ea627.mp4?t=1768793897\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Marvel Rivals is a Super Hero Team-Based PVP Shooter! Assemble an all-star Marvel squad, devise countless strategies by combining powers to form unique Team-Up skills and fight in destructible, ever-changing battlefields across the continually evolving Marvel universe! </p><h2 class=\"bb_tag\" >A Deep and Varied Marvel Roster</h2><p class=\"bb_paragraph\" >Choose from a vast array of fan-favorite and cult-classic Marvel Super Heroes and Super Villains from across the Avengers, Guardians of the Galaxy, X-Men, and many more from across the Marvel Multiverse. </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/1be995dac6209fcc82602a115764654c.poster.avif?t=1768793897\" width=614 height=344 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/1be995dac6209fcc82602a115764654c.webm?t=1768793897\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/1be995dac6209fcc82602a115764654c.mp4?t=1768793897\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >Fast and Fun 6v6 Action with Ever-Changing Game Dynamics</h2><p class=\"bb_paragraph\" >With intricate environments, fast-paced gameplay, and ever-changing battlefields, there's never a dull moment in Marvel Rivals! Battle as Super Heroes and Super Villains with incredible abilities and combine your powers to bring unexpected fun to the battlefield in a matter of seconds.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/8ec4dc05a3bf2df290124c12824b22b7.poster.avif?t=1768793897\" width=614 height=344 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/8ec4dc05a3bf2df290124c12824b22b7.webm?t=1768793897\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/8ec4dc05a3bf2df290124c12824b22b7.mp4?t=1768793897\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >Dynamic Hero Synergy</h2><p class=\"bb_paragraph\" >Coordinate unique combinations between characters to ignite surprising Team-Up Skills! Unleash the synergy of combined superpowers and invent new tactics that can turn the tide of combat. Ride on Groot's back as Rocket Raccoon to take on your enemies as a dangerous duo, unleash Gamma energy as Hulk to charge Iron Man's armor for massive damage, and so much more! </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/90fdb5ea1bab4a9c2b96106ff8da1786.poster.avif?t=1768793897\" width=614 height=344 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/90fdb5ea1bab4a9c2b96106ff8da1786.webm?t=1768793897\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/90fdb5ea1bab4a9c2b96106ff8da1786.mp4?t=1768793897\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >Creative Environment Destruction</h2><p class=\"bb_paragraph\" >Tear your way through iconic Marvel worlds across destructible environments! From Asgard to the Tokyo of 2099, use superpowers to alter these environments, reshape the terrain, and craft a strategic advantage on the battlefield! Take cover to dodge attacks or use makeshift weapons to strike down enemies. Players will find countless ways to utilize the environment to claim victory!</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/29f2b96912254738fe25502020fa8ef7.poster.avif?t=1768793897\" width=614 height=344 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/29f2b96912254738fe25502020fa8ef7.webm?t=1768793897\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/29f2b96912254738fe25502020fa8ef7.mp4?t=1768793897\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >Continually Evolving Universe and Robust Post-Launch Updates</h2><p class=\"bb_paragraph\" >The Marvel Multiverse brings infinite possibilities! Each seasonal drop will introduce new Super Heroes to the battlefield along with challenging and diverse maps! Unlock new content to implement across various gameplay strategies while experiencing thrilling action and endless possibilities in these adventurous team battles!</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/6dd8472b5c36421702cd90af0742a75a.poster.avif?t=1768793897\" width=614 height=344 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/6dd8472b5c36421702cd90af0742a75a.webm?t=1768793897\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/6dd8472b5c36421702cd90af0742a75a.mp4?t=1768793897\" type=\"video/mp4\"></video></span></p>",
+    "about_the_game": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/7b14c698e3cae345068fc2496c6ea627.poster.avif?t=1768793897\" width=610 height=160 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/7b14c698e3cae345068fc2496c6ea627.webm?t=1768793897\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/7b14c698e3cae345068fc2496c6ea627.mp4?t=1768793897\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Marvel Rivals is a Super Hero Team-Based PVP Shooter! Assemble an all-star Marvel squad, devise countless strategies by combining powers to form unique Team-Up skills and fight in destructible, ever-changing battlefields across the continually evolving Marvel universe! </p><h2 class=\"bb_tag\" >A Deep and Varied Marvel Roster</h2><p class=\"bb_paragraph\" >Choose from a vast array of fan-favorite and cult-classic Marvel Super Heroes and Super Villains from across the Avengers, Guardians of the Galaxy, X-Men, and many more from across the Marvel Multiverse. </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/1be995dac6209fcc82602a115764654c.poster.avif?t=1768793897\" width=614 height=344 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/1be995dac6209fcc82602a115764654c.webm?t=1768793897\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/1be995dac6209fcc82602a115764654c.mp4?t=1768793897\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >Fast and Fun 6v6 Action with Ever-Changing Game Dynamics</h2><p class=\"bb_paragraph\" >With intricate environments, fast-paced gameplay, and ever-changing battlefields, there's never a dull moment in Marvel Rivals! Battle as Super Heroes and Super Villains with incredible abilities and combine your powers to bring unexpected fun to the battlefield in a matter of seconds.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/8ec4dc05a3bf2df290124c12824b22b7.poster.avif?t=1768793897\" width=614 height=344 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/8ec4dc05a3bf2df290124c12824b22b7.webm?t=1768793897\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/8ec4dc05a3bf2df290124c12824b22b7.mp4?t=1768793897\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >Dynamic Hero Synergy</h2><p class=\"bb_paragraph\" >Coordinate unique combinations between characters to ignite surprising Team-Up Skills! Unleash the synergy of combined superpowers and invent new tactics that can turn the tide of combat. Ride on Groot's back as Rocket Raccoon to take on your enemies as a dangerous duo, unleash Gamma energy as Hulk to charge Iron Man's armor for massive damage, and so much more! </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/90fdb5ea1bab4a9c2b96106ff8da1786.poster.avif?t=1768793897\" width=614 height=344 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/90fdb5ea1bab4a9c2b96106ff8da1786.webm?t=1768793897\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/90fdb5ea1bab4a9c2b96106ff8da1786.mp4?t=1768793897\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >Creative Environment Destruction</h2><p class=\"bb_paragraph\" >Tear your way through iconic Marvel worlds across destructible environments! From Asgard to the Tokyo of 2099, use superpowers to alter these environments, reshape the terrain, and craft a strategic advantage on the battlefield! Take cover to dodge attacks or use makeshift weapons to strike down enemies. Players will find countless ways to utilize the environment to claim victory!</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/29f2b96912254738fe25502020fa8ef7.poster.avif?t=1768793897\" width=614 height=344 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/29f2b96912254738fe25502020fa8ef7.webm?t=1768793897\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/29f2b96912254738fe25502020fa8ef7.mp4?t=1768793897\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >Continually Evolving Universe and Robust Post-Launch Updates</h2><p class=\"bb_paragraph\" >The Marvel Multiverse brings infinite possibilities! Each seasonal drop will introduce new Super Heroes to the battlefield along with challenging and diverse maps! Unlock new content to implement across various gameplay strategies while experiencing thrilling action and endless possibilities in these adventurous team battles!</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/6dd8472b5c36421702cd90af0742a75a.poster.avif?t=1768793897\" width=614 height=344 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/6dd8472b5c36421702cd90af0742a75a.webm?t=1768793897\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/extras/6dd8472b5c36421702cd90af0742a75a.mp4?t=1768793897\" type=\"video/mp4\"></video></span></p>",
+    "short_description": "Marvel Rivals is a Super Hero Team-Based PVP Shooter! Assemble an all-star Marvel squad, devise countless strategies by combining powers to form unique Team-Up skills and fight in destructible, ever-changing battlefields across the continually evolving Marvel universe!",
+    "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Russian, Turkish, Thai, Simplified Chinese<strong>*</strong>, Traditional Chinese, Spanish - Latin America, Korean, Japanese<strong>*</strong>, Polish, Portuguese - Brazil, Arabic<br><strong>*</strong>languages with full audio support",
+    "reviews": "\u201cIt\u2019s all unequivocally stylish to boot\u201d<br />\r\n8/10 \u2013 IGN<br />\r\n<br />\r\n\u201cMarvel Rivals Makes Cross Play Refreshingly Simple\u201d<br />\r\nKotaku<br />\r\n<br />\r\n\u201cMarvel Rivals is a wildly entertaining hero shooter and one of the best games that the genre has to offer\u201d<br />\r\n9/10 \u2013 Game Rant<br />\r\n",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/0d2320ad32448ada538d0903d44ad8df7e185800/header.jpg?t=1768793897",
+    "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/f77a7018444fbf8bd96dd79de42b4f5d6603d236/capsule_231x87.jpg?t=1768793897",
+    "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/f77a7018444fbf8bd96dd79de42b4f5d6603d236/capsule_184x69.jpg?t=1768793897",
+    "website": "https://www.marvelrivals.com",
     "pc_requirements": {
-        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 64-bit Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5-4430 / AMD FX-6300<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 40 GB available space</li></ul>",
-        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 64-bit Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5-6600K / AMD Ryzen 5 1600<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060 3GB / AMD Radeon RX 580 4GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 50 GB available space</li></ul>"
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64-bit (1909 or newer)<br></li><li><strong>Processor:</strong> Intel Core i5-6600K or AMD Ryzen 5 1600X<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060 / AMD RX 580 / Intel Arc A380<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 70 GB available space<br></li><li><strong>Additional Notes:</strong> We recommend you install the game on SSD drive for better experience.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64-bit (1909 or newer)<br></li><li><strong>Processor:</strong> Intel Core i5-10400 or AMD Ryzen 5 5600X<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce RTX 2060 (Super) / AMD RX 5700-XT / Intel Arc A750<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 70 GB available space<br></li><li><strong>Additional Notes:</strong> We recommend you install the game on SSD drive for better experience.</li></ul>"
     },
-    "mac_requirements": {
-        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
-        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
-    },
-    "linux_requirements": {
-        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
-        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
-    },
-    "legal_notice": "\u00a9 2017 KRAFTON, Inc.<br />\r\nPUBG: BATTLEGROUNDS Korea and PUBG are registered trademarks or service marks of KRAFTON, Inc.",
+    "mac_requirements": [],
+    "linux_requirements": [],
+    "legal_notice": "\u00a92024 MARVEL<br />\r\n\u00a91997-2024 NetEase, lnc. All Rights Reserved.",
     "developers": [
-        "PUBG Corporation"
+        "NetEase Games"
     ],
     "publishers": [
-        "KRAFTON, Inc."
+        "NetEase Games"
     ],
     "package_groups": [],
     "platforms": {
@@ -51,30 +47,34 @@
             "description": "Online PvP"
         },
         {
-            "id": 15,
-            "description": "Stats"
+            "id": 9,
+            "description": "Co-op"
         },
         {
-            "id": 41,
-            "description": "Remote Play on Phone"
+            "id": 38,
+            "description": "Online Co-op"
         },
         {
-            "id": 42,
-            "description": "Remote Play on Tablet"
+            "id": 27,
+            "description": "Cross-Platform Multiplayer"
+        },
+        {
+            "id": 22,
+            "description": "Steam Achievements"
+        },
+        {
+            "id": 28,
+            "description": "Full controller support"
+        },
+        {
+            "id": 35,
+            "description": "In-App Purchases"
         }
     ],
     "genres": [
         {
             "id": "1",
             "description": "Action"
-        },
-        {
-            "id": "25",
-            "description": "Adventure"
-        },
-        {
-            "id": "29",
-            "description": "Massively Multiplayer"
         },
         {
             "id": "37",
@@ -84,278 +84,380 @@
     "screenshots": [
         {
             "id": 0,
-            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/c16e2f2d122cae77a1cbaca19263df0f2d2214fa/ss_c16e2f2d122cae77a1cbaca19263df0f2d2214fa.600x338.jpg?t=1764817633",
-            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/c16e2f2d122cae77a1cbaca19263df0f2d2214fa/ss_c16e2f2d122cae77a1cbaca19263df0f2d2214fa.1920x1080.jpg?t=1764817633"
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/d0c9586eb84af49eb038a402e221a8244331c043/ss_d0c9586eb84af49eb038a402e221a8244331c043.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/d0c9586eb84af49eb038a402e221a8244331c043/ss_d0c9586eb84af49eb038a402e221a8244331c043.1920x1080.jpg?t=1768793897"
         },
         {
             "id": 1,
-            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/aa1c51a9b45c88e770b443d8d3cd28f3024b0760/ss_aa1c51a9b45c88e770b443d8d3cd28f3024b0760.600x338.jpg?t=1764817633",
-            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/aa1c51a9b45c88e770b443d8d3cd28f3024b0760/ss_aa1c51a9b45c88e770b443d8d3cd28f3024b0760.1920x1080.jpg?t=1764817633"
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/41d8d7ee3700ffcf6ba83e30f4576ef725dce08c/ss_41d8d7ee3700ffcf6ba83e30f4576ef725dce08c.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/41d8d7ee3700ffcf6ba83e30f4576ef725dce08c/ss_41d8d7ee3700ffcf6ba83e30f4576ef725dce08c.1920x1080.jpg?t=1768793897"
         },
         {
             "id": 2,
-            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/bf9b3de5896d4ec7ef9531938b26946cded81fdf/ss_bf9b3de5896d4ec7ef9531938b26946cded81fdf.600x338.jpg?t=1764817633",
-            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/bf9b3de5896d4ec7ef9531938b26946cded81fdf/ss_bf9b3de5896d4ec7ef9531938b26946cded81fdf.1920x1080.jpg?t=1764817633"
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/dda939ba4692be6a542482d72d6f72951d7b31d1/ss_dda939ba4692be6a542482d72d6f72951d7b31d1.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/dda939ba4692be6a542482d72d6f72951d7b31d1/ss_dda939ba4692be6a542482d72d6f72951d7b31d1.1920x1080.jpg?t=1768793897"
         },
         {
             "id": 3,
-            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/faa4f9f6caa9613f07fd1193a143f66e0fac489c/ss_faa4f9f6caa9613f07fd1193a143f66e0fac489c.600x338.jpg?t=1764817633",
-            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/faa4f9f6caa9613f07fd1193a143f66e0fac489c/ss_faa4f9f6caa9613f07fd1193a143f66e0fac489c.1920x1080.jpg?t=1764817633"
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/f439edbd061f256e1c9956351ac3580b1c3ccafd/ss_f439edbd061f256e1c9956351ac3580b1c3ccafd.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/f439edbd061f256e1c9956351ac3580b1c3ccafd/ss_f439edbd061f256e1c9956351ac3580b1c3ccafd.1920x1080.jpg?t=1768793897"
         },
         {
             "id": 4,
-            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/3ae78fac4c07e9a2e2955286014355d6b7f3c8c7/ss_3ae78fac4c07e9a2e2955286014355d6b7f3c8c7.600x338.jpg?t=1764817633",
-            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/3ae78fac4c07e9a2e2955286014355d6b7f3c8c7/ss_3ae78fac4c07e9a2e2955286014355d6b7f3c8c7.1920x1080.jpg?t=1764817633"
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/4c7620ed61604b252a698aca99f201a36d514768/ss_4c7620ed61604b252a698aca99f201a36d514768.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/4c7620ed61604b252a698aca99f201a36d514768/ss_4c7620ed61604b252a698aca99f201a36d514768.1920x1080.jpg?t=1768793897"
         },
         {
             "id": 5,
-            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/eb19c1ce924ff4689105242257b6d377ffe2e264/ss_eb19c1ce924ff4689105242257b6d377ffe2e264.600x338.jpg?t=1764817633",
-            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/eb19c1ce924ff4689105242257b6d377ffe2e264/ss_eb19c1ce924ff4689105242257b6d377ffe2e264.1920x1080.jpg?t=1764817633"
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/2863571a710e40420b448228e4ce90aed67ed84a/ss_2863571a710e40420b448228e4ce90aed67ed84a.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/2863571a710e40420b448228e4ce90aed67ed84a/ss_2863571a710e40420b448228e4ce90aed67ed84a.1920x1080.jpg?t=1768793897"
         },
         {
             "id": 6,
-            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/e4d447065171993f718cab6b5d793f1e03dda581/ss_e4d447065171993f718cab6b5d793f1e03dda581.600x338.jpg?t=1764817633",
-            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/e4d447065171993f718cab6b5d793f1e03dda581/ss_e4d447065171993f718cab6b5d793f1e03dda581.1920x1080.jpg?t=1764817633"
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/dc7ed78b9e05b48a38946e2a3e8460e5e633d629/ss_dc7ed78b9e05b48a38946e2a3e8460e5e633d629.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/dc7ed78b9e05b48a38946e2a3e8460e5e633d629/ss_dc7ed78b9e05b48a38946e2a3e8460e5e633d629.1920x1080.jpg?t=1768793897"
         },
         {
             "id": 7,
-            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/dfbecb503265d4ba705f7ffb60eff2460c936d70/ss_dfbecb503265d4ba705f7ffb60eff2460c936d70.600x338.jpg?t=1764817633",
-            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/dfbecb503265d4ba705f7ffb60eff2460c936d70/ss_dfbecb503265d4ba705f7ffb60eff2460c936d70.1920x1080.jpg?t=1764817633"
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/ef2d770c98f3d543285693c47d78f418fd09d2dd/ss_ef2d770c98f3d543285693c47d78f418fd09d2dd.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/ef2d770c98f3d543285693c47d78f418fd09d2dd/ss_ef2d770c98f3d543285693c47d78f418fd09d2dd.1920x1080.jpg?t=1768793897"
         },
         {
             "id": 8,
-            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/78ce82886e296fcaa69a480cd4440df61846cdaf/ss_78ce82886e296fcaa69a480cd4440df61846cdaf.600x338.jpg?t=1764817633",
-            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/78ce82886e296fcaa69a480cd4440df61846cdaf/ss_78ce82886e296fcaa69a480cd4440df61846cdaf.1920x1080.jpg?t=1764817633"
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/5a4553ed4ba60b41ec503a9cf7a07715c05ba794/ss_5a4553ed4ba60b41ec503a9cf7a07715c05ba794.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/5a4553ed4ba60b41ec503a9cf7a07715c05ba794/ss_5a4553ed4ba60b41ec503a9cf7a07715c05ba794.1920x1080.jpg?t=1768793897"
         },
         {
             "id": 9,
-            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/9effed8d0922ade3f36b3c2a56f2947189109d4f/ss_9effed8d0922ade3f36b3c2a56f2947189109d4f.600x338.jpg?t=1764817633",
-            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/9effed8d0922ade3f36b3c2a56f2947189109d4f/ss_9effed8d0922ade3f36b3c2a56f2947189109d4f.1920x1080.jpg?t=1764817633"
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/18825994ebe8d92f0700bcd1ecc118f48b4fc6a6/ss_18825994ebe8d92f0700bcd1ecc118f48b4fc6a6.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/18825994ebe8d92f0700bcd1ecc118f48b4fc6a6/ss_18825994ebe8d92f0700bcd1ecc118f48b4fc6a6.1920x1080.jpg?t=1768793897"
         },
         {
             "id": 10,
-            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/1ab55ce84484630645bdb49b383ebaee5412391b/ss_1ab55ce84484630645bdb49b383ebaee5412391b.600x338.jpg?t=1764817633",
-            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/1ab55ce84484630645bdb49b383ebaee5412391b/ss_1ab55ce84484630645bdb49b383ebaee5412391b.1920x1080.jpg?t=1764817633"
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/03aad4fa01e6e6b58e7bec9bd0ef8c0d32b06d5b/ss_03aad4fa01e6e6b58e7bec9bd0ef8c0d32b06d5b.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/03aad4fa01e6e6b58e7bec9bd0ef8c0d32b06d5b/ss_03aad4fa01e6e6b58e7bec9bd0ef8c0d32b06d5b.1920x1080.jpg?t=1768793897"
         },
         {
             "id": 11,
-            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/c5fa382f8b85e7bda233d6b509c8df69bc6b1c1d/ss_c5fa382f8b85e7bda233d6b509c8df69bc6b1c1d.600x338.jpg?t=1764817633",
-            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/c5fa382f8b85e7bda233d6b509c8df69bc6b1c1d/ss_c5fa382f8b85e7bda233d6b509c8df69bc6b1c1d.1920x1080.jpg?t=1764817633"
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/fb1d494145281f01c7b437e0b72a71977eb55894/ss_fb1d494145281f01c7b437e0b72a71977eb55894.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/fb1d494145281f01c7b437e0b72a71977eb55894/ss_fb1d494145281f01c7b437e0b72a71977eb55894.1920x1080.jpg?t=1768793897"
         },
         {
             "id": 12,
-            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/82db9796dce882e8c290649e2ec83ff7c192807a/ss_82db9796dce882e8c290649e2ec83ff7c192807a.600x338.jpg?t=1764817633",
-            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/82db9796dce882e8c290649e2ec83ff7c192807a/ss_82db9796dce882e8c290649e2ec83ff7c192807a.1920x1080.jpg?t=1764817633"
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/8619630319804a1c233e704f6b84dd07c647e15e/ss_8619630319804a1c233e704f6b84dd07c647e15e.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/8619630319804a1c233e704f6b84dd07c647e15e/ss_8619630319804a1c233e704f6b84dd07c647e15e.1920x1080.jpg?t=1768793897"
         },
         {
             "id": 13,
-            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/0c413195bade2cd40986983d38a4f3f0275571ba/ss_0c413195bade2cd40986983d38a4f3f0275571ba.600x338.jpg?t=1764817633",
-            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/0c413195bade2cd40986983d38a4f3f0275571ba/ss_0c413195bade2cd40986983d38a4f3f0275571ba.1920x1080.jpg?t=1764817633"
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/13b2d3e5ebe12e003c2718fb5e550351ad274c8d/ss_13b2d3e5ebe12e003c2718fb5e550351ad274c8d.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/13b2d3e5ebe12e003c2718fb5e550351ad274c8d/ss_13b2d3e5ebe12e003c2718fb5e550351ad274c8d.1920x1080.jpg?t=1768793897"
         },
         {
             "id": 14,
-            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/039c1ff93107647bd109df516b479be7cd94e6d5/ss_039c1ff93107647bd109df516b479be7cd94e6d5.600x338.jpg?t=1764817633",
-            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/039c1ff93107647bd109df516b479be7cd94e6d5/ss_039c1ff93107647bd109df516b479be7cd94e6d5.1920x1080.jpg?t=1764817633"
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/47c19fb55fa8765b375deb5f9fc69a5543ac3b2c/ss_47c19fb55fa8765b375deb5f9fc69a5543ac3b2c.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/47c19fb55fa8765b375deb5f9fc69a5543ac3b2c/ss_47c19fb55fa8765b375deb5f9fc69a5543ac3b2c.1920x1080.jpg?t=1768793897"
         },
         {
             "id": 15,
-            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/e000f6c95fd78f8c4e009ff5c7bf486b74eb9423/ss_e000f6c95fd78f8c4e009ff5c7bf486b74eb9423.600x338.jpg?t=1764817633",
-            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/e000f6c95fd78f8c4e009ff5c7bf486b74eb9423/ss_e000f6c95fd78f8c4e009ff5c7bf486b74eb9423.1920x1080.jpg?t=1764817633"
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/3d721a2ef3ea6063bf75abb9e10c79df858ebf72/ss_3d721a2ef3ea6063bf75abb9e10c79df858ebf72.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/3d721a2ef3ea6063bf75abb9e10c79df858ebf72/ss_3d721a2ef3ea6063bf75abb9e10c79df858ebf72.1920x1080.jpg?t=1768793897"
         },
         {
             "id": 16,
-            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/a2236e8d90db3645bd13ef451b24fc5ec7afb826/ss_a2236e8d90db3645bd13ef451b24fc5ec7afb826.600x338.jpg?t=1764817633",
-            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/a2236e8d90db3645bd13ef451b24fc5ec7afb826/ss_a2236e8d90db3645bd13ef451b24fc5ec7afb826.1920x1080.jpg?t=1764817633"
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/07d0efaa0706ba1a1cd69389eba1b6945c949114/ss_07d0efaa0706ba1a1cd69389eba1b6945c949114.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/07d0efaa0706ba1a1cd69389eba1b6945c949114/ss_07d0efaa0706ba1a1cd69389eba1b6945c949114.1920x1080.jpg?t=1768793897"
         },
         {
             "id": 17,
-            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/01dfa3ae5449218b17d6d04229dfed681fc377db/ss_01dfa3ae5449218b17d6d04229dfed681fc377db.600x338.jpg?t=1764817633",
-            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/01dfa3ae5449218b17d6d04229dfed681fc377db/ss_01dfa3ae5449218b17d6d04229dfed681fc377db.1920x1080.jpg?t=1764817633"
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/e2dfc14dd3e15094f0ba184c9ec48d9b65f8a0cd/ss_e2dfc14dd3e15094f0ba184c9ec48d9b65f8a0cd.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/e2dfc14dd3e15094f0ba184c9ec48d9b65f8a0cd/ss_e2dfc14dd3e15094f0ba184c9ec48d9b65f8a0cd.1920x1080.jpg?t=1768793897"
         },
         {
             "id": 18,
-            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/d874034ce52876c300ce9a97aaee57497347b6ab/ss_d874034ce52876c300ce9a97aaee57497347b6ab.600x338.jpg?t=1764817633",
-            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/d874034ce52876c300ce9a97aaee57497347b6ab/ss_d874034ce52876c300ce9a97aaee57497347b6ab.1920x1080.jpg?t=1764817633"
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/db15a024dce0fcb029c8695a13bb02281213c9f1/ss_db15a024dce0fcb029c8695a13bb02281213c9f1.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/db15a024dce0fcb029c8695a13bb02281213c9f1/ss_db15a024dce0fcb029c8695a13bb02281213c9f1.1920x1080.jpg?t=1768793897"
         },
         {
             "id": 19,
-            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/e72fbd8d51fb1da13ef14097f1ef20a3fe4b99ae/ss_e72fbd8d51fb1da13ef14097f1ef20a3fe4b99ae.600x338.jpg?t=1764817633",
-            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/e72fbd8d51fb1da13ef14097f1ef20a3fe4b99ae/ss_e72fbd8d51fb1da13ef14097f1ef20a3fe4b99ae.1920x1080.jpg?t=1764817633"
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/87436ac6aa79c7de11e46302eebf13bcd0824a28/ss_87436ac6aa79c7de11e46302eebf13bcd0824a28.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/87436ac6aa79c7de11e46302eebf13bcd0824a28/ss_87436ac6aa79c7de11e46302eebf13bcd0824a28.1920x1080.jpg?t=1768793897"
+        },
+        {
+            "id": 20,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/b3116e7399759eb75c97cee01e85071cd598872b/ss_b3116e7399759eb75c97cee01e85071cd598872b.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/b3116e7399759eb75c97cee01e85071cd598872b/ss_b3116e7399759eb75c97cee01e85071cd598872b.1920x1080.jpg?t=1768793897"
+        },
+        {
+            "id": 21,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/f0fc6afc678a2cd815fe585d564d192382f47244/ss_f0fc6afc678a2cd815fe585d564d192382f47244.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/f0fc6afc678a2cd815fe585d564d192382f47244/ss_f0fc6afc678a2cd815fe585d564d192382f47244.1920x1080.jpg?t=1768793897"
+        },
+        {
+            "id": 22,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/a5a9bed9a945b253b89f2d0177a6b828389d305b/ss_a5a9bed9a945b253b89f2d0177a6b828389d305b.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/a5a9bed9a945b253b89f2d0177a6b828389d305b/ss_a5a9bed9a945b253b89f2d0177a6b828389d305b.1920x1080.jpg?t=1768793897"
+        },
+        {
+            "id": 23,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/5ec7724a1898213b8f4773fe92feb0a759dca2ff/ss_5ec7724a1898213b8f4773fe92feb0a759dca2ff.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/5ec7724a1898213b8f4773fe92feb0a759dca2ff/ss_5ec7724a1898213b8f4773fe92feb0a759dca2ff.1920x1080.jpg?t=1768793897"
+        },
+        {
+            "id": 24,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/dbda0512e57579462bc1ac872002dcb6da997d6f/ss_dbda0512e57579462bc1ac872002dcb6da997d6f.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/dbda0512e57579462bc1ac872002dcb6da997d6f/ss_dbda0512e57579462bc1ac872002dcb6da997d6f.1920x1080.jpg?t=1768793897"
+        },
+        {
+            "id": 25,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/f2190c172de3579543198c8e4372a2f352c91ab4/ss_f2190c172de3579543198c8e4372a2f352c91ab4.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/f2190c172de3579543198c8e4372a2f352c91ab4/ss_f2190c172de3579543198c8e4372a2f352c91ab4.1920x1080.jpg?t=1768793897"
+        },
+        {
+            "id": 26,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/3181ca22a2d46eaf842055a35b629639dc88cfcb/ss_3181ca22a2d46eaf842055a35b629639dc88cfcb.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/3181ca22a2d46eaf842055a35b629639dc88cfcb/ss_3181ca22a2d46eaf842055a35b629639dc88cfcb.1920x1080.jpg?t=1768793897"
+        },
+        {
+            "id": 27,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/45dc321513225e666540e91e3f8ad0b654b522ce/ss_45dc321513225e666540e91e3f8ad0b654b522ce.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/45dc321513225e666540e91e3f8ad0b654b522ce/ss_45dc321513225e666540e91e3f8ad0b654b522ce.1920x1080.jpg?t=1768793897"
+        },
+        {
+            "id": 28,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/ac1dc6bd93f6c2a30f9d12a9b035e329e381d6f6/ss_ac1dc6bd93f6c2a30f9d12a9b035e329e381d6f6.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/ac1dc6bd93f6c2a30f9d12a9b035e329e381d6f6/ss_ac1dc6bd93f6c2a30f9d12a9b035e329e381d6f6.1920x1080.jpg?t=1768793897"
+        },
+        {
+            "id": 29,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/71f5d0649cfd42e7061b6419797da70f807e9514/ss_71f5d0649cfd42e7061b6419797da70f807e9514.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/71f5d0649cfd42e7061b6419797da70f807e9514/ss_71f5d0649cfd42e7061b6419797da70f807e9514.1920x1080.jpg?t=1768793897"
+        },
+        {
+            "id": 30,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/f40bf087ebbb3ea5cdd7171f9decfcad4e573822/ss_f40bf087ebbb3ea5cdd7171f9decfcad4e573822.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/f40bf087ebbb3ea5cdd7171f9decfcad4e573822/ss_f40bf087ebbb3ea5cdd7171f9decfcad4e573822.1920x1080.jpg?t=1768793897"
+        },
+        {
+            "id": 31,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/ae7e94f60f14bf17f87c75e99d2fdae47cbf2231/ss_ae7e94f60f14bf17f87c75e99d2fdae47cbf2231.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/ae7e94f60f14bf17f87c75e99d2fdae47cbf2231/ss_ae7e94f60f14bf17f87c75e99d2fdae47cbf2231.1920x1080.jpg?t=1768793897"
+        },
+        {
+            "id": 32,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/60dea19cbd15c2d994c9d523e0947b9bb6e73d89/ss_60dea19cbd15c2d994c9d523e0947b9bb6e73d89.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/60dea19cbd15c2d994c9d523e0947b9bb6e73d89/ss_60dea19cbd15c2d994c9d523e0947b9bb6e73d89.1920x1080.jpg?t=1768793897"
+        },
+        {
+            "id": 33,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/b4dc8811a262a3f8256523a0162bf36f184e7363/ss_b4dc8811a262a3f8256523a0162bf36f184e7363.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/b4dc8811a262a3f8256523a0162bf36f184e7363/ss_b4dc8811a262a3f8256523a0162bf36f184e7363.1920x1080.jpg?t=1768793897"
+        },
+        {
+            "id": 34,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/6e242f0a6d2c7cf4f44dede1b0f760f72c2a5cb1/ss_6e242f0a6d2c7cf4f44dede1b0f760f72c2a5cb1.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/6e242f0a6d2c7cf4f44dede1b0f760f72c2a5cb1/ss_6e242f0a6d2c7cf4f44dede1b0f760f72c2a5cb1.1920x1080.jpg?t=1768793897"
+        },
+        {
+            "id": 35,
+            "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/4c7620ed61604b252a698aca99f201a36d514768/ss_4c7620ed61604b252a698aca99f201a36d514768.600x338.jpg?t=1768793897",
+            "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/4c7620ed61604b252a698aca99f201a36d514768/ss_4c7620ed61604b252a698aca99f201a36d514768.1920x1080.jpg?t=1768793897"
         }
     ],
     "movies": [
         {
-            "id": 257243350,
-            "name": "Subzero_lore",
-            "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257243350/04bcc33d9f5b93edb211380e2888418e7ab7a356/movie_600x337.jpg?t=1764817628",
-            "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/578080/1951614759/e9ba6c684f4a3581aceebe37cfbbeb69543a655a/1764815822/dash_av1.mpd?t=1764817628",
-            "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/578080/1951614759/e9ba6c684f4a3581aceebe37cfbbeb69543a655a/1764815822/dash_h264.mpd?t=1764817628",
-            "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/578080/1951614759/e9ba6c684f4a3581aceebe37cfbbeb69543a655a/1764815822/hls_264_master.m3u8?t=1764817628",
+            "id": 257267675,
+            "name": "Deadpool: The Merc with a Mouth",
+            "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257267675/11fdbe9a942d34c54f9e9979b4535cfa779383c2/movie_600x337.jpg?t=1768793894",
+            "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2767030/801154437/12ff455da5c1d2c4de05bde24dae9453b76d68f5/1768791993/dash_av1.mpd?t=1768793894",
+            "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2767030/801154437/12ff455da5c1d2c4de05bde24dae9453b76d68f5/1768791993/dash_h264.mpd?t=1768793894",
+            "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2767030/801154437/12ff455da5c1d2c4de05bde24dae9453b76d68f5/1768791993/hls_264_master.m3u8?t=1768793894",
             "highlight": true
         },
         {
-            "id": 257243352,
-            "name": "Subzero phase1",
-            "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257243352/09057a7c149eaccbb66925a63de028270b5c1982/movie_600x337.jpg?t=1764817629",
-            "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/578080/1213761731/361d7ec8afb4b0bb13d929d2d6f884d79ffae9a6/1764815844/dash_av1.mpd?t=1764817629",
-            "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/578080/1213761731/361d7ec8afb4b0bb13d929d2d6f884d79ffae9a6/1764815844/dash_h264.mpd?t=1764817629",
-            "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/578080/1213761731/361d7ec8afb4b0bb13d929d2d6f884d79ffae9a6/1764815844/hls_264_master.m3u8?t=1764817629",
+            "id": 257267676,
+            "name": "Marvel Rivals Season 5 | Night at the Museum",
+            "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257267676/b0716f063c5897a198647545e880002d183c5177/movie_600x337.jpg?t=1768793895",
+            "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2767030/509637414/7ff33d28d354c3c67ac1c57fcaa23232f54d1b9c/1768789786/dash_av1.mpd?t=1768793895",
+            "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2767030/509637414/7ff33d28d354c3c67ac1c57fcaa23232f54d1b9c/1768789786/dash_h264.mpd?t=1768793895",
+            "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2767030/509637414/7ff33d28d354c3c67ac1c57fcaa23232f54d1b9c/1768789786/hls_264_master.m3u8?t=1768793895",
             "highlight": true
         },
         {
-            "id": 257200890,
-            "name": "8th Anniversary",
-            "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257200890/f493b8aa3aa83be6a47886206507d5774f5186f7/movie_600x337.jpg?t=1758185154",
-            "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/578080/1437336701/9d244bd664c656dc435a2639995ad43d025b2755/1758181574/dash_av1.mpd?t=1758185154",
-            "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/578080/1437336701/9d244bd664c656dc435a2639995ad43d025b2755/1758181574/dash_h264.mpd?t=1758185154",
-            "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/578080/1437336701/9d244bd664c656dc435a2639995ad43d025b2755/1758181574/hls_264_master.m3u8?t=1758185154",
-            "highlight": true
+            "id": 257248288,
+            "name": "Rogue: Tempted to Touch | Character Reveal",
+            "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257248288/8f30403e63866b42df3f3dbdbe46b3c4b2898456/movie_600x337.jpg?t=1765533630",
+            "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2767030/676016098/d3fee209e611958cc6b5c0205a9ed307ab24f4d1/1765525469/dash_av1.mpd?t=1765533630",
+            "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2767030/676016098/d3fee209e611958cc6b5c0205a9ed307ab24f4d1/1765525469/dash_h264.mpd?t=1765533630",
+            "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2767030/676016098/d3fee209e611958cc6b5c0205a9ed307ab24f4d1/1765525469/hls_264_master.m3u8?t=1765533630",
+            "highlight": false
         },
         {
-            "id": 257200885,
-            "name": "Lucky Day",
-            "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257200885/1b731062c74fff500d8a024199c004946bf8c92f/movie_600x337.jpg?t=1758185158",
-            "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/578080/1039535402/2126e29510cdf8d56ce5892b31b17acda36b600f/1758181520/dash_av1.mpd?t=1758185158",
-            "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/578080/1039535402/2126e29510cdf8d56ce5892b31b17acda36b600f/1758181520/dash_h264.mpd?t=1758185158",
-            "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/578080/1039535402/2126e29510cdf8d56ce5892b31b17acda36b600f/1758181520/hls_264_master.m3u8?t=1758185158",
-            "highlight": true
+            "id": 257231257,
+            "name": "Marvel Rivals Season 5 | Love Is a Battlefield",
+            "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257231257/800f730b8b5fc0990d00d234be182eb636392a9d/movie_600x337.jpg?t=1763110755",
+            "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2767030/262852048/86e00c6748ca4cf5e516ed4e93fea5031ba976d4/1763089721/dash_av1.mpd?t=1763110755",
+            "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2767030/262852048/86e00c6748ca4cf5e516ed4e93fea5031ba976d4/1763089721/dash_h264.mpd?t=1763110755",
+            "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2767030/262852048/86e00c6748ca4cf5e516ed4e93fea5031ba976d4/1763089721/hls_264_master.m3u8?t=1763110755",
+            "highlight": false
         },
         {
-            "id": 257200883,
-            "name": "F2P Launch_Gameplay Trailer",
-            "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257200883/f9e2395c649a8fd58596f279d40bb91fb6c2e062/movie_600x337.jpg?t=1758185160",
-            "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/578080/1309225277/08ba54c8ba10768fa42079088e766a37ae14b242/1758181273/dash_av1.mpd?t=1758185160",
-            "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/578080/1309225277/08ba54c8ba10768fa42079088e766a37ae14b242/1758181273/dash_h264.mpd?t=1758185160",
-            "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/578080/1309225277/08ba54c8ba10768fa42079088e766a37ae14b242/1758181273/hls_264_master.m3u8?t=1758185160",
-            "highlight": true
+            "id": 257215315,
+            "name": "Marvel Rivals Season 4.5 | Daredevil has officially joined",
+            "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257215315/e2e4a36d02c7dfe0b8ed1393a37042de2832f2d4/movie_600x337.jpg?t=1760087113",
+            "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2767030/216139444/55fd53bb0e9db8bd7d51e135e84adc64829f795f/1760066047/dash_av1.mpd?t=1760087113",
+            "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2767030/216139444/55fd53bb0e9db8bd7d51e135e84adc64829f795f/1760066047/dash_h264.mpd?t=1760087113",
+            "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2767030/216139444/55fd53bb0e9db8bd7d51e135e84adc64829f795f/1760066047/hls_264_master.m3u8?t=1760087113",
+            "highlight": false
         },
         {
-            "id": 257200879,
-            "name": "F2P Launch_Live Action Trailer",
-            "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257200879/a7545114c601065a9605c8c130521f7134e620b4/movie_600x337.jpg?t=1758185163",
-            "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/578080/614150349/196048461e79e2e3a8683186bef8b8171ccdc1a3/1758181171/dash_av1.mpd?t=1758185163",
-            "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/578080/614150349/196048461e79e2e3a8683186bef8b8171ccdc1a3/1758181171/dash_h264.mpd?t=1758185163",
-            "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/578080/614150349/196048461e79e2e3a8683186bef8b8171ccdc1a3/1758181171/hls_264_master.m3u8?t=1758185163",
-            "highlight": true
+            "id": 257196561,
+            "name": "Marvel Rivals Season 4: Heart of the Dragon",
+            "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257196561/8671f52f6c96b49f24ad5a4475f678d35b295f10/movie_600x337.jpg?t=1757669638",
+            "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2767030/963234451/c2eb412cc6cab635bf908c5e8372c31b7282e8de/1757649359/dash_av1.mpd?t=1757669638",
+            "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2767030/963234451/c2eb412cc6cab635bf908c5e8372c31b7282e8de/1757649359/dash_h264.mpd?t=1757669638",
+            "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2767030/963234451/c2eb412cc6cab635bf908c5e8372c31b7282e8de/1757649359/hls_264_master.m3u8?t=1757669638",
+            "highlight": false
+        },
+        {
+            "id": 257180236,
+            "name": "Season 3.5 Is Live Now. Blade Has Joined Marvel Rivals\uff01",
+            "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257180236/de72a2aaa84547b5b28a62e7e2b6096720d2dc4d/movie_600x337.jpg?t=1754651780",
+            "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2767030/1656326093/ec8557f0a75d406b0ef1a6bf80e50ae29adc04d4/1754645211/dash_av1.mpd?t=1754651780",
+            "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2767030/1656326093/ec8557f0a75d406b0ef1a6bf80e50ae29adc04d4/1754645211/dash_h264.mpd?t=1754651780",
+            "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2767030/1656326093/ec8557f0a75d406b0ef1a6bf80e50ae29adc04d4/1754645211/hls_264_master.m3u8?t=1754651780",
+            "highlight": false
+        },
+        {
+            "id": 257148215,
+            "name": "Marvel Rivals S2.5:Ultron has officially joined Marvel Rivals",
+            "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257148215/59623b872a8e1fe0b1cda8362fd05d2ce73b90b0/movie_600x337.jpg?t=1748596175",
+            "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2767030/1766436966/3f6e6631682dcddb69a095d4184df0e29877795e/1748810997/dash_av1.mpd?t=1748596175",
+            "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2767030/1766436966/3f6e6631682dcddb69a095d4184df0e29877795e/1748810997/dash_h264.mpd?t=1748596175",
+            "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2767030/1766436966/3f6e6631682dcddb69a095d4184df0e29877795e/1748810997/hls_264_master.m3u8?t=1748596175",
+            "highlight": false
+        },
+        {
+            "id": 257100747,
+            "name": "Season 1.5-Human Torch and The thing join Marvel Rivals",
+            "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257100747/09dc4c941bc224f7862b2f3f372a968435060401/movie_600x337.jpg?t=1740137114",
+            "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2767030/832901/a329e8f43d2193f0ac18e24dfa1c9010e9d48c3e/1748810997/dash_av1.mpd?t=1740137114",
+            "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2767030/832901/a329e8f43d2193f0ac18e24dfa1c9010e9d48c3e/1748810997/dash_h264.mpd?t=1740137114",
+            "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2767030/832901/a329e8f43d2193f0ac18e24dfa1c9010e9d48c3e/1748810997/hls_264_master.m3u8?t=1740137114",
+            "highlight": false
+        },
+        {
+            "id": 257077891,
+            "name": "Marvel Rivals | Rivals 'Til the End |  Official Launch Trailer",
+            "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257077891/aed38ebb85853c92d4547eb61f84426d46300cab/movie_600x337.jpg?t=1732982458",
+            "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2767030/793246/c7365aa0420adf175a417c84b62351036f7a070b/1748810996/dash_av1.mpd?t=1732982458",
+            "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2767030/793246/c7365aa0420adf175a417c84b62351036f7a070b/1748810996/dash_h264.mpd?t=1732982458",
+            "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2767030/793246/c7365aa0420adf175a417c84b62351036f7a070b/1748810996/hls_264_master.m3u8?t=1732982458",
+            "highlight": false
+        },
+        {
+            "id": 257079154,
+            "name": "Season 0: Dooms' Rise Official Trailer",
+            "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257079154/62f1040a690454107b94e34929538941925ef22d/movie_600x337.jpg?t=1733439843",
+            "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2767030/795411/4d98ee26bfc703c0b2ff556621bb58c78457d4d2/1748810996/dash_av1.mpd?t=1733439843",
+            "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2767030/795411/4d98ee26bfc703c0b2ff556621bb58c78457d4d2/1748810996/dash_h264.mpd?t=1733439843",
+            "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2767030/795411/4d98ee26bfc703c0b2ff556621bb58c78457d4d2/1748810996/hls_264_master.m3u8?t=1733439843",
+            "highlight": false
+        },
+        {
+            "id": 257040847,
+            "name": "No One Rivals Doom | Cinematic Trailer | Marvel Rivals",
+            "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257040847/movie.293x165.jpg?t=1722825582",
+            "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2767030/731301/0a55586e9eed29249f1b6962872807a64a4001f5/1748810996/dash_av1.mpd?t=1722825582",
+            "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2767030/731301/0a55586e9eed29249f1b6962872807a64a4001f5/1748810996/dash_h264.mpd?t=1722825582",
+            "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2767030/731301/0a55586e9eed29249f1b6962872807a64a4001f5/1748810996/hls_264_master.m3u8?t=1722825582",
+            "highlight": false
         }
     ],
-    "recommendations": {
-        "total": 1755438
-    },
     "achievements": {
-        "total": 37,
+        "total": 49,
         "highlighted": [
             {
-                "name": "Last Survivor",
-                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/578080/59abda8f6cfe24cb94398ce496a1aab1248a3f61.jpg"
+                "name": "Thumbs\u00a0Up",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2767030/3290f7b2c3c8201ac8dbad08a8a7c255c1b7e2ef.jpg"
             },
             {
-                "name": "Winner Winner Chicken Dinner!",
-                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/578080/0ba42c6fbcf0fecb0893124f138c5d30fc5f8ff4.jpg"
+                "name": "Vicious\u00a0Vines",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2767030/4a40a315c2d790520d92ab189eec55b7e603429b.jpg"
             },
             {
-                "name": "Dynamic Duo",
-                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/578080/fa12ea95807654db1a05ec9ebd9e8ed5a151fff8.jpg"
+                "name": "You\u00a0Do\u00a0You",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2767030/719e38911fd358768f12ce5b7da1c265bb4a6457.jpg"
             },
             {
-                "name": "Fantastic Four",
-                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/578080/0efd6cfce883f01f2b2bbf6979e71b1158e5b8fd.jpg"
+                "name": "Rising\u00a0Star",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2767030/1f41bfcaaa8e5416091f3ddd53d45ae9500c0355.jpg"
             },
             {
-                "name": "Top 10",
-                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/578080/fbc11e553fcda52b8f887c00aa11a2c80d0559ab.jpg"
+                "name": "Onslaught!",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2767030/a6287c3d20df60cd50b8a06625830f8716ae60bb.jpg"
             },
             {
-                "name": "Pacifist",
-                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/578080/b534a3173fe847ae350ea5fb834a76a470702951.jpg"
+                "name": "Smoke\u00a0Screen",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2767030/a9acd0138240c9b77d02ce47032ee46a6d50e739.jpg"
             },
             {
-                "name": "CQB Master",
-                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/578080/2227412df7f1b33945a99744c4f3f70511b43f84.jpg"
+                "name": "Go\u00a0Get\u00a0'Em,\u00a0Guardians!\u00a0",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2767030/f627cdfe29ad8919557583d041f6e196d2ba53fa.jpg"
             },
             {
-                "name": "CQB Expert",
-                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/578080/bdcbf863a234b6a52bdfb20040bc4c532ab4228c.jpg"
+                "name": "Family\u00a0Ties",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2767030/12a7a63ef333d6c298af451037c2e844a9c475c6.jpg"
             },
             {
-                "name": "CQB Novice",
-                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/578080/866eef57dcbd674f2b69602eaba7207371176fa7.jpg"
+                "name": "Inevitable\uff01",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2767030/a7fc58799df36d3173da9b9a8c4efcde1bcf4547.jpg"
             },
             {
-                "name": "Marksman Master",
-                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/578080/9ef7ec6c4abfedc2a5436fc75b9f63bf9ae80161.jpg"
+                "name": "Assemble!",
+                "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2767030/d1c37bf688bc0a3ad985fe1cfdb89858f6c326f4.jpg"
             }
         ]
     },
     "release_date": {
         "coming_soon": false,
-        "date": "21 Dec, 2017"
+        "date": "5 Dec, 2024"
     },
     "support_info": {
-        "url": "https://support.pubg.com/hc/en-us",
-        "email": ""
+        "url": "",
+        "email": "marvel_rivals@global.netease.com"
     },
-    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/578080?t=1764817633",
-    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/378ba5d5c4cabc77814a29d8088bbb92aecec194/page_bg_raw.jpg?t=1764817633",
+    "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2767030?t=1768793897",
+    "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/page_bg_raw.jpg?t=1768793897",
     "content_descriptors": {
-        "ids": [
-            2,
-            5
-        ],
+        "ids": [],
         "notes": null
     },
     "ratings": {
         "kgrb": {
-            "rating": "19",
-            "descriptors": "\ud3ed\ub825\uc131",
-            "use_age_gate": "true",
-            "required_age": "19"
-        },
-        "esrb": {
-            "rating": "t",
-            "descriptors": "Violence\r\nBlood\r\n\r\nUsers Interact",
-            "use_age_gate": "true",
-            "required_age": "13"
-        },
-        "usk": {
-            "rating": "16",
-            "descriptors": "Games in this category may contain more intense violence, including depictions of combat with realistic weapons or fighting. The game might have more serious, darker themes (e.g., crime, horror, or war) and could include some blood, crude humor, or stronger language. These elements should not be overly graphic, but the violence and tension are at a level inappropriate for younger players.",
-            "rating_id": "44712/18",
-            "use_age_gate": "true",
-            "required_age": "16"
-        },
-        "pegi": {
-            "rating": "16",
-            "use_age_gate": "true",
-            "required_age": "16"
-        },
-        "oflc": {
-            "rating": "ma15",
-            "use_age_gate": "true",
-            "required_age": "15"
-        },
-        "nzoflc": {
-            "rating": "ma15",
-            "use_age_gate": "true",
-            "required_age": "15"
-        },
-        "dejus": {
-            "rating": "16",
-            "use_age_gate": "true",
-            "required_age": "16"
+            "rating": "15",
+            "descriptors": "\ud3ed\ub825\uc131, \uacf5\ud3ec"
         },
         "csrr": {
-            "rating": "C15",
+            "rating": "C12",
+            "descriptors": "\u66b4\u529b,\u4e0d\u7576\u8a00\u8a9e",
             "use_age_gate": "true",
-            "required_age": "15"
+            "required_age": "12"
+        },
+        "dejus": {
+            "rating_generated": "1",
+            "rating": "10",
+            "required_age": "10",
+            "banned": "0",
+            "use_age_gate": "0",
+            "descriptors": "Viol\u00eancia"
         },
         "steam_germany": {
             "rating_generated": "1",
-            "rating": "0",
-            "required_age": "0",
+            "rating": "12",
+            "required_age": "12",
             "banned": "0",
             "use_age_gate": "0",
-            "descriptors": ""
+            "descriptors": "Gewalt"
         }
     }
 }

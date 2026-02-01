@@ -2,7 +2,7 @@ from flask import Flask, render_template, request
 import requests
 import json 
 
-from data_parsing import final_checker
+from data_parsing import final_checker, get_appid_from_name
 
 app = Flask(__name__)
 
@@ -15,6 +15,11 @@ def index():
     elif request.method == 'POST':
 
         steam_appid = request.form['steam_id']
+        game_name = request.form['game_name']
+
+        if game_name:
+            steam_appid = get_appid_from_name(game_name)
+
         result = final_checker(steam_appid)
 
         can_run = result["can run"]

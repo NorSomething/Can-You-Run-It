@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup
 '''
     ToDo : Handle no requirements data in steam page of some games
            CPU comparison fix
+           Error handlign when random no name game entered
 '''
 
 def get_html_file(data, name):
@@ -27,7 +28,7 @@ def get_parsed_data(name):
     linux_parsed_data = (S.ul.text)
 
     split_data = linux_parsed_data.split(':')   
-
+    print(split_data)
     return split_data 
 
 
@@ -38,31 +39,54 @@ def get_game_data(appid):
  
     return data[str(appid)]["data"]
 
+def get_appid_from_name(game_name):
+    
+    url = "https://store.steampowered.com/api/storesearch/"
+    params = {
+        "term" : game_name,
+        "l" : "english",
+        "cc" : "US"
+    }
+
+    stuff2 = requests.get(url, params=params)
+    data = stuff2.json()
+
+    if not data["items"]: #couldnt find for that game
+        return None
+
+    app_id = data["items"][0]["id"]
+
+    return app_id
+
+
 def parser(data):
 
     get_test_json(data) #for user reference
 
-    linux_reqs = data['linux_requirements']['minimum']
-    pc_reqs = data['pc_requirements']['minimum']
+    linux_reqs = data['linux_requirements']
+    pc_reqs = data['pc_requirements']
 
     get_html_file(linux_reqs, 'linux')
     get_html_file(pc_reqs, 'pc')
     
     print("Using linux requirements data.")
 
-    split_data = get_parsed_data('linux')
+    
 
     data_list = []
 
-    if len(split_data) < 3: #no linux reqs there
-        
-        print("Linux reqs not found, Using pc requirements data.")
+    if not linux_reqs:
+        print("no linux support")
         split_data = get_parsed_data('pc')
-
+    else:
+        split_data = get_parsed_data('linux')
+    
     if len(split_data) < 3: #no reqs present at all
 
         print("No requirements data available.")
-        return
+        return ['']
+
+    
 
     for i in range(len(split_data)):
         if 'Processor' in split_data[i]:
@@ -74,23 +98,29 @@ def parser(data):
         if 'Storage' in split_data[i]:
             data_list.append(split_data[i+1])
 
+
+    print(data_list[0])
+
     game_memory = re.search(r"\d+", data_list[1]).group()
     game_storage = re.search(r"\d+", data_list[3]).group()
-    game_intel_processor = re.search(r"i\d+", data_list[0]).group()
-
-    # game_system_req_dict = {
-    #     'Processor' : game_thread_count,
-    #     'Memory' : game_memory,
-    #     'Graphics' : data_list[2],
-    #     'Storage' : game_storage
-    # }
-
-    if 'i3' in game_intel_processor:
+    
+    if 'dual' in data_list[0].lower():
         game_thread_count = 4
-    if 'i5' in game_intel_processor:
-       game_thread_count = 8
-    if 'i7' in game_intel_processor:
-        game_thread_count = 16
+    elif 'quad' in data_list[0].lower():
+        game_thread_count = 8
+    else:
+        game_intel_processor = re.search(r"i\d+", data_list[0]).group()
+
+
+
+        if 'i3' in game_intel_processor:
+            game_thread_count = 4
+        if 'i5' in game_intel_processor:
+            game_thread_count = 8
+        if 'i7' in game_intel_processor:
+            game_thread_count = 16
+        if 'dual' in game_intel_processor:
+            game_thread_count = 4
 
 
     game_system_req_dict = {
@@ -211,7 +241,6 @@ def final_checker(appid):
     }
 
     return final_dict
-
 
 
 
