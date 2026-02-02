@@ -14,16 +14,24 @@
             <div class="panels">
                 <div class="panel">
                     <h3>Your Specs</h3>
-                    {% for x,y in user_specs.items() %}
-                        <p>{{x}} : {{y}}</p>
-                    {% endfor %}
+                    {% if game_specs %}
+                        {% for x,y in user_specs.items() %}
+                            <p>{{ x }} : {{ y }}</p>
+                        {% endfor %}
+                    {% else %}
+                        <p>Error Fetching System Requirements.</p>
+                    {% endif %}
                 </div>
 
                 <div class="panel">
                     <h3>Game Requirements</h3>
-                    {% for x,y in game_specs.items() %}
-                        <p>{{x}} : {{y}}</p>
-                    {% endfor %}
+                    {% if game_specs %}
+                        {% for x,y in game_specs.items() %}
+                            <p>{{x}} : {{y}}</p>
+                        {% endfor %}
+                    {% else %}
+                        <p>Error Fetching System Requirements.</p>
+                    {% endif %}
                 </div>
                 
             </div>
@@ -33,7 +41,7 @@
                 <h3>Bottlenecks : </h3>
                 <ul>
                     {% for i in bottlenecks %}
-                        <li>{{ b }}</li>
+                        <li>{{ i }}</li>
                     {% endfor %}
                 </ul>
             {% endif %}

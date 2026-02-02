@@ -1,33 +1,76 @@
-body {
-  font-family: sans-serif;
-  background: #0f172a;
-  color: white;
-}
+  body {
+    font-family: sans-serif;
+    background: #0f172a;
+    color: white;
+  }
 
-.container {
-  max-width: 800px;
-  margin: auto;
-  padding: 30px;
-}
+  .container {
+    max-width: 800px;
+    margin: auto;
+    padding: 30px;
+  }
 
-.panels {
-  display: flex;
-  gap: 20px;
-}
+  .panels {
+    display: flex;
+    gap: 20px;
+  }
 
-.panel {
-  flex: 1;
-  background: #1e293b;
-  padding: 20px;
-  border-radius: 10px;
-}
+  .panel {
+    flex: 1;
+    background: #1e293b;
+    padding: 20px;
+    border-radius: 10px;
+  }
 
-.result {
+  .result {
+    margin-top: 20px;
+    padding: 15px;
+    text-align: center;
+    font-size: 24px;
+    border-radius: 10px;
+  }
+  .success { background: #166534; }
+  .fail { background: #7f1d1d; }
+
+form {
   margin-top: 20px;
-  padding: 15px;
-  text-align: center;
-  font-size: 24px;
-  border-radius: 10px;
 }
-.success { background: #166534; }
-.fail { background: #7f1d1d; }
+
+form input[type="text"] {
+  width: 100%;
+  padding: 12px 14px;
+  margin-bottom: 12px;
+  background: #1e293b;
+  border: 1px solid #334155;
+  border-radius: 8px;
+  color: white;
+  outline: none;
+  font-size: 15px;
+}
+
+form input[type="text"]::placeholder {
+  color: #94a3b8;
+}
+
+form input[type="text"]:focus {
+  border-color: #3b82f6;
+}
+
+form input[type="submit"] {
+  width: 100%;
+  padding: 12px;
+  margin-top: 5px;
+  background: #2563eb;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+form input[type="submit"]:hover {
+  background: #1d4ed8;
+  transition: 0.15s ease;
+}
+
+

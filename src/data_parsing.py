@@ -8,6 +8,7 @@ from bs4 import BeautifulSoup
     ToDo : Handle no requirements data in steam page of some games
            CPU comparison fix
            Error handlign when random no name game entered
+           Parser does not work for many games FIX!!
 '''
 
 def get_html_file(data, name):
@@ -84,7 +85,7 @@ def parser(data):
     if len(split_data) < 3: #no reqs present at all
 
         print("No requirements data available.")
-        return ['']
+        return None
 
     
 
@@ -187,15 +188,18 @@ def comparator(appid):
     user_system_spec_dict = spec_getter()
     game_system_req_dict = parser(stuff)
 
-    print("Your specs : ")
+    # print("Your specs : ")
 
-    for x,y in user_system_spec_dict.items():
-        print(f"{x} : {y}")
+    # for x,y in user_system_spec_dict.items():
+    #     print(f"{x} : {y}")
 
-    print("Game's Specs : ")
+    # print("Game's Specs : ")
 
-    for x,y in game_system_req_dict.items():
-        print(f"{x} : {y}")
+    # for x,y in game_system_req_dict.items():
+    #     print(f"{x} : {y}")
+
+    if game_system_req_dict is None:
+        return user_system_spec_dict, None, False, ["No system requirements available"]
 
     processor_flag = False
     ram_flag = False
